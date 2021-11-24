@@ -12,6 +12,7 @@ import MakeAdmin from './pages/Dashboard/MakeAdmin/MakeAdmin';
 import AdminRoute from './pages/Login/Login/AdminRoute/AdminRoute';
 import ManageAllBookings from './pages/Dashboard/ManageAllBookings/ManageAllBookings';
 import AddReview from './pages/Dashboard/AddReview/AddReview';
+import Payment from './pages/Dashboard/Payment/Payment';
 
 function App() {
   return (
@@ -30,6 +31,8 @@ function App() {
 
 
               <Route path="/dashboard" element={<DashboardHome></DashboardHome>}>
+              </Route>
+              <Route path="/dashboard/payment/:bookingId" element={<Payment></Payment>}>
               </Route>
               <Route path='/dashboard/reviews' element={<PrivateRoute><AddReview></AddReview></PrivateRoute>}>
             </Route>

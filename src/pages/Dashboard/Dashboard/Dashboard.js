@@ -43,10 +43,10 @@ function Dashboard(props) {
             </Box>
                 :
                 <Box>
-                    <Link style={{ textDecoration: 'none', color: '#CC2060', textAlign: "left" }} to='/dashboard'><Button color="inherit">Dashboard</Button></Link><br />
                     <Link style={{ textDecoration: 'none', color: '#CC2060', textAlign: "left" }} to='/booking'><Button color="inherit">Booking</Button></Link><br />
+                    <Link style={{ textDecoration: 'none', color: '#CC2060', textAlign: "left" }} to='/dashboard'><Button color="inherit">My Bookings</Button></Link><br />
                     <Link style={{ textDecoration: 'none', color: '#CC2060', textAlign: "left" }} to='/dashboard/reviews'><Button color="inherit">Add Review</Button></Link><br />
-                    
+
                 </Box>
 
             }
