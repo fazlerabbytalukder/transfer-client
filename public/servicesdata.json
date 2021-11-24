@@ -1,0 +1,105 @@
+[
+    {
+        "serviceName": "Shohagh Paribahan",
+        "img": "https://i.ibb.co/mDBJXjt/Shohagh-Paribahan.jpg",
+        "price": 1000,
+        "firstTrip": "10:15 PM",
+        "lastTrip": "10:15 PM",
+        "tripNumber": "1 Trip(s)",
+        "star": 5
+    },
+    {
+        "serviceName": "Hanif Enterprise",
+        "img": "https://i.ibb.co/P4zLDQ9/Hanif-Enterprice.png",
+        "price": 1500,
+        "firstTrip": "06:45 AM",
+        "lastTrip": "11:00 PM",
+        "tripNumber": "9 Trip(s)",
+        "star": 5
+    },
+    {
+        "serviceName": "Ena Transport Ltd",
+        "img": "https://i.ibb.co/0mNQh4X/Ena-Transport-Pvt-Ltd.jpg",
+        "price": 2000,
+        "firstTrip": "07:30 PM",
+        "lastTrip": "10:20 PM",
+        "tripNumber": "9 Trip(s)",
+        "star": 4
+    },
+    {
+        "serviceName": "Star Line Special Ltd.",
+        "img": "https://i.ibb.co/x83SgxJ/Star-Line-Special-Ltd.jpg",
+        "price": 1000,
+        "firstTrip": "09:00 PM",
+        "lastTrip": "10:20 PM",
+        "tripNumber": "2 Trip(s)",
+        "star": 3
+    },
+    {
+        "serviceName": "Saintmartin Travels",
+        "img": "https://i.ibb.co/L8nw6b3/Saintmartin-Travels.jpg",
+        "price": 1000,
+        "firstTrip": "06:30 PM",
+        "lastTrip": "11:20 PM",
+        "tripNumber": "6 Trip(s)",
+        "star": 4
+    },
+    {
+        "serviceName": "Royal Coach",
+        "img": "https://i.ibb.co/V3N2Hdc/Royal-Coach.jpg",
+        "price": 2000,
+        "firstTrip": "12:00 PM",
+        "lastTrip": "11:50 PM",
+        "tripNumber": "7 Trip(s)",
+        "star": 5
+    },
+    {
+        "serviceName": "Tuba Line",
+        "img": "https://i.ibb.co/NnXnWJT/Tuba-Line.jpg",
+        "price": 800,
+        "firstTrip": "11:00 PM",
+        "lastTrip": "11:00 PM",
+        "tripNumber": "7 Trip(s)",
+        "star": 3
+    },
+    {
+        "serviceName": "Soudia Coach Service",
+        "img": "https://i.ibb.co/LZR829k/Soudia-Coach-Service.jpg",
+        "price": 1200,
+        "firstTrip": "12:45 AM",
+        "lastTrip": "11:30 PM",
+        "tripNumber": "4 Trip(s)",
+        "star": 3
+    },
+    {
+        "serviceName": "Saintmartin Hyundai",
+        "img": "https://i.ibb.co/stJ8nxy/Saintmartin-Hyundai.jpg",
+        "price": 2000,
+        "firstTrip": "08:00 PM",
+        "lastTrip": "11:30 PM",
+        "tripNumber": "5 Trip(s)",
+        "star": 4
+    },
+    {
+        "serviceName": "Hanif Enterprise AC",
+        "img": "https://i.ibb.co/MPyT8vx/Hanif-Enterprise-ac-special.jpg",
+        "price": 3000,
+        "firstTrip": "09:30 PM",
+        "lastTrip": "10:00 PM",
+        "tripNumber": "2 Trip(s)",
+        "star": 5
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
