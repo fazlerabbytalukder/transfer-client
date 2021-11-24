@@ -40,7 +40,6 @@ const Bookings = ({date}) => {
                                 <TableCell align="right">{row.price}</TableCell>
                                 <TableCell align="right">{row.status}</TableCell>
                                 <TableCell align="right">
-                                    {/* <Link to={`/dashboard/payment/${row._id}`}><button>Pay</button></Link> */}
                                     {
                                         row.payment ? 'Paid'
                                             :
