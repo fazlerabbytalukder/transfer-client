@@ -12,7 +12,7 @@
         "Image":"https://i.ibb.co/7CBDCbt/coffee-150.jpg",
         "name":"Food-2",
         "category":"dinner",
-        "price":220,
+        "price":1t20,
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, ipsa?"
     },
     {
@@ -20,7 +20,7 @@
         "Image":"https://i.ibb.co/J28PMmG/Chicken-hot-and-sour-250.jpg",
         "name":"Food-3",
         "category":"lunch",
-        "price":220,
+        "price":320,
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, ipsa?"
     },
     {
@@ -36,7 +36,7 @@
         "Image":"https://i.ibb.co/ZTZYpp6/Beef-supreme-by-bunsnpatty-999.jpg",
         "name":"Food-5",
         "category":"dinner",
-        "price":220,
+        "price":420,
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, ipsa?"
     },
     {
@@ -44,7 +44,7 @@
         "Image":"https://i.ibb.co/xgxmfp6/Burger-Double-size-300.jpg",
         "name":"Food-6",
         "category":"lunch",
-        "price":220,
+        "price":520,
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, ipsa?"
     }
 ]
